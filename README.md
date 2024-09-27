@@ -17,3 +17,7 @@
 ## 4. Kemudian menyisipkan gambar pada halaman web dan menambahkan judul
 ![Img 7](ss/7.png)
 ![Img 8](ss/8.png)
+## 5. Menambahkan Hyperlink pada dokumen terserbut
+![Img 9](ss/9.png)
+![Img 10](ss/10.png)
+![Img 11](ss/11.png) hal 2
