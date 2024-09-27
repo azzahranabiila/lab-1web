@@ -2,4 +2,4 @@
 
 ## 1. Menambahkan file baru praktikum1 dan menambahkan tag dasar dokumen HTML.
 - Gambar1
-![Img 1] (ss/1.png)
+![Img 1] (Screenshot/1.png)
