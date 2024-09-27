@@ -1,5 +1,7 @@
 # lab-1web
-
+## Nama = Azzahra Nabiila
+## Nim = 312310367
+## Kelas = TI.23.A4
 ## 1. Membuat paragraf sederhana.
 - Gambar
 ![Img 1](ss/1.png)
