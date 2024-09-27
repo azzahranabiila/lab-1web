@@ -6,12 +6,11 @@
 ## 2. Kemudian atur atribut paragraf dan menambahkan sub judul
 - Gambar result
 ![Img 2](ss/2.png)
-## 3. Format teks pada paragraf
 - Gambar result
 ![Img 3](ss/3.png)
-## 4. Kemudia menyisipkan gambar pada halaman web dan menambahkan judul
 - Gambar result
 ![Img 4](ss/4.png)
+## 3. Format teks pada paragraf
 ## 5. Menambahkan Hyperlink pada dokumen tersebut
 - Gambar 1
 ![Img 5](ss/5.png)
