@@ -13,3 +13,4 @@
 ## 3. Format teks pada paragraf
 - Gambar 1
 ![Img 5](ss/5.png)
+![Img 6](ss/6.png)
